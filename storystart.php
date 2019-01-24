@@ -1,3 +1,3 @@
 <?php
-echo 'Once upon a time'
+echo 'Once upon a time';
 ?>
